@@ -1,0 +1,18 @@
+{
+    "osztalyok" : [
+        {
+            "id" : 1,
+            "nev" : "13.C",
+            "szak" : "Informatika" 
+        }
+    ],
+
+    "diakok" : [
+        {
+            "id" : 1,
+            "nev" : "Ellenbacher Áron",
+            "email" : "ellaro@gmail.com",
+            "osztaly_id" : 1
+        }
+    ]
+}
